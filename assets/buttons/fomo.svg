@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72">
+  <rect width="640" height="72" rx="14" fill="#7C3AED"/>
+  <g transform="translate(30,20)" fill="#ffffff">
+    <path d="M8 10h20v4H8zm0 8h14v4H8z"/>
+    <circle cx="28" cy="12" r="6"/>
+  </g>
+  <text x="88" y="33" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700">FOMO</text>
+  <text x="88" y="54" fill="#e9ddff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">fomo.family/r/rimtoln</text>
+  <text x="590" y="42" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="end" opacity="0.9">:</text>
+</svg>

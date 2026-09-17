@@ -44,52 +44,28 @@ Agent swarms that scout, filter, and size. Tools that keep memory on the **deplo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### ✉️ Contact
-
-<p>
-  <a href="mailto:cryptopsihoz@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28" /></a>
-  &nbsp;
-  <a href="https://x.com/rimtoln" title="X"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="28" height="28" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/cryptopsihoz/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" /></a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@cryptopsihoz" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="28" height="28" /></a>
-</p>
-
 </td>
 <td valign="top" width="42%" align="center">
 
 <img src="./assets/portrait.jpg" alt="rimtoln" width="100%" />
 
+<br />
+
+<a href="https://x.com/rimtoln"><img src="./assets/buttons/x.svg" alt="X @rimtoln" width="100%" /></a>
+<br />
+<a href="https://www.instagram.com/cryptopsihoz/"><img src="./assets/buttons/instagram.svg" alt="Instagram @cryptopsihoz" width="100%" /></a>
+<br />
+<a href="https://www.tiktok.com/@cryptopsihoz"><img src="./assets/buttons/tiktok.svg" alt="TikTok @cryptopsihoz" width="100%" /></a>
+<br />
+<a href="https://cryptopsihoz.com"><img src="./assets/buttons/website.svg" alt="cryptopsihoz.com" width="100%" /></a>
+<br />
+<a href="https://fomo.family/r/rimtoln"><img src="./assets/buttons/fomo.svg" alt="FOMO link" width="100%" /></a>
+<br />
+<a href="mailto:cryptopsihoz@gmail.com"><img src="./assets/buttons/email.svg" alt="Email" width="100%" /></a>
+
 </td>
 </tr>
 </table>
-
-### 📊 X analytics · [@rimtoln](https://x.com/rimtoln)
-
-Live follower count + desk snapshot for the cryptopsihoz tape on X.
-
-<p>
-  <a href="https://x.com/rimtoln"><img src="https://pulse.walls.sh/badge?url=https://x.com/rimtoln&label=X%20followers&color=000000" alt="X followers (live)" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/cryptopsihoz/"><img src="https://pulse.walls.sh/badge?url=https://www.instagram.com/cryptopsihoz/&label=Instagram&color=E4405F" alt="Instagram (live)" /></a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@cryptopsihoz"><img src="https://pulse.walls.sh/badge?url=https://www.tiktok.com/@cryptopsihoz&label=TikTok&color=000000" alt="TikTok (live)" /></a>
-</p>
-
-| | |
-| :--- | ---: |
-| **X handle** | [@rimtoln](https://x.com/rimtoln) |
-| **display name** | cryptopsihoz |
-| **followers** | **14.9k** |
-| **following** | 4.6k |
-| **posts** | 164k |
-| **likes given** | 243k |
-| **joined** | Feb 2022 |
-| **site** | [cryptopsihoz.com](https://cryptopsihoz.com) |
-| **fomo link** | [fomo.family/r/rimtoln](https://fomo.family/r/rimtoln) |
-
-<sub>Table numbers are a desk snapshot (Sep 2026). Badges above refresh live.</sub>
 
 ---
 
