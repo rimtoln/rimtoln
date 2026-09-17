@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72">
   <rect width="640" height="72" rx="14" fill="#111111"/>
   <rect x="1.5" y="1.5" width="637" height="69" rx="12.5" fill="none" stroke="#2f2f2f" stroke-width="3"/>
-  <g transform="translate(28,18)" fill="#ffffff">
-    <path d="M20.2 2.4c-1.7.1-3.9 1.1-5.2 2.5-.9 1-1.7 2.4-1.4 3.8 1.9.1 3.9-1 5.1-2.4 1-1.1 1.7-2.5 1.5-3.9zm-9.7 6.8C7.2 9.1 2 12.7 2 19.5c0 5.5 4.5 12.1 9.1 12.1 1.7 0 2.8-1.2 5.2-1.2 2.4 0 3.3 1.2 5.3 1.2 4.7 0 8.1-8.1 8.1-8.1s-5-2.1-5-7.3c0-4.5 3.6-6.5 3.8-6.7-2.2-3.2-5.6-3.5-6.7-3.5-2.3-.2-4.3 1.4-5.3 1.4-.9 0-2.7-1.4-4.9-1.2z"/>
+  <g transform="translate(28,18)">
+    <!-- TikTok note: cyan shadow + magenta shadow + white core -->
+    <path fill="#25F4EE" transform="translate(-1.2,0.8)" d="M18.2 2.1c.7 2.1 2.1 3.8 4.1 4.8v3.4c-1.4-.1-2.7-.5-3.9-1.1v7.8c0 4.3-3.5 7.8-7.8 7.8S2.8 21.3 2.8 17s3.5-7.8 7.8-7.8c.4 0 .8 0 1.2.1v3.6c-.4-.1-.8-.2-1.2-.2-2.3 0-4.2 1.9-4.2 4.2s1.9 4.2 4.2 4.2 4.2-1.9 4.2-4.2V2.1h3.4z"/>
+    <path fill="#FE2C55" transform="translate(1.2,-0.8)" d="M18.2 2.1c.7 2.1 2.1 3.8 4.1 4.8v3.4c-1.4-.1-2.7-.5-3.9-1.1v7.8c0 4.3-3.5 7.8-7.8 7.8S2.8 21.3 2.8 17s3.5-7.8 7.8-7.8c.4 0 .8 0 1.2.1v3.6c-.4-.1-.8-.2-1.2-.2-2.3 0-4.2 1.9-4.2 4.2s1.9 4.2 4.2 4.2 4.2-1.9 4.2-4.2V2.1h3.4z"/>
+    <path fill="#ffffff" d="M18.2 2.1c.7 2.1 2.1 3.8 4.1 4.8v3.4c-1.4-.1-2.7-.5-3.9-1.1v7.8c0 4.3-3.5 7.8-7.8 7.8S2.8 21.3 2.8 17s3.5-7.8 7.8-7.8c.4 0 .8 0 1.2.1v3.6c-.4-.1-.8-.2-1.2-.2-2.3 0-4.2 1.9-4.2 4.2s1.9 4.2 4.2 4.2 4.2-1.9 4.2-4.2V2.1h3.4z"/>
   </g>
   <text x="88" y="33" fill="#ffffff" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700">TikTok</text>
   <text x="88" y="54" fill="#9a9a9a" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">@cryptopsihoz</text>
-  <text x="590" y="42" fill="#666666" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="end">:</text>
+  <text x="590" y="42" fill="#666666" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="end">›</text>
 </svg>
